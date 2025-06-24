@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lqg8f25zl-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/lqg8f25zl-java-springboot-gitops
